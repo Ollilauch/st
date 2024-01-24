@@ -3,7 +3,7 @@ scrollback with (shift + Mousewheel)\
 font2\
 Boxdraw\
 alpha\
-clipboard\
+clipboard
 
 ```
 git clone https://github.com/Ollilauch/st.git
